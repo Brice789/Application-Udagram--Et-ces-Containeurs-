@@ -1,7 +1,3 @@
-# esiea-4th-vcc-project
-
-Project d'étude 4è année - ESIEA-INTECH Virtualisation, Conteneurisation et Cloud
-
 ![Udagram Architecture](udagram_architecture.png?raw=true "Udagram Architecture")
 
 # Udagram, an Instagram like application
